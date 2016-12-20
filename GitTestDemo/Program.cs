@@ -10,7 +10,8 @@ namespace GitTestDemo
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World - Parth Savadiya");
+            Console.WriteLine("Hello World - Parth Savadiya");
+            Console.WriteLine("Welcome to github");
         }
     }
 }

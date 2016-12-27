@@ -11,6 +11,7 @@ namespace GitTestDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to github");
+            Console.WriteLine("Welcome to github");
         }
     }
 }
